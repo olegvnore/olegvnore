@@ -1,22 +1,24 @@
-# 🐀 Haldi aka olegvnore
+# 🧊 Haldi aka olegvnore ❄️
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Java+%7C+C%23+%7C+Python;Brawl+Stars+modding;Rat+who+ships+%F0%9F%90%80)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Chillin'+like+a+fridge;Serving+ice-cold+code;Java+%7C+C%23+%7C+Python;Frostbite+guaranteed+%E2%9D%84%EF%B8%8F)
 
-**Кодю. Ломаю. Чиню. Повторяю.**
+**Кодю. Замораживаю. Подаю холодным.** 🥶
+
+*Температура моего кода: -18°C. Как в морозилке.*
 
 </div>
 
 ---
 
-### 🛠️ Стек
+### 🧊 Морозильная камера (стек)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 Стата
+### ❄️ Заморозка статистики
 
 <div align="center">
 
@@ -28,23 +30,30 @@
 
 ---
 
-### 🔥 Чем занимаюсь
+### 🥶 Что лежит в холодильнике
 
-- 🎮 **Brawl Stars моддинг** — Modern-Brawl29, V53-Fix, ReversedBrawl-Core
-- ☕ Пишу на Java / C# / Python
-- 🐀 Грызу код пока он не сдастся
+- 🎮 **Brawl Stars моддинг** — Modern-Brawl29, V53-Fix, ReversedBrawl-Core (заморожено до лучших времён)
+- 🔬 **BrawlSCRE** — реверс-инжиниринг лаборатория (хранить при -18°C)
+- 🔥 **TUFF** — единственный горячий проект, греет морозилку изнутри
+- ☕ Пишу на Java / C# / Python — подаю холодным
+
+### 🧊 Правила холодильника
+
+1. Не размораживать код без необходимости
+2. Лёд в коммитах приветствуется
+3. Если код горячий — это баг, кидай issue
 
 ### 📫 Связь
 
-- VK — ищи по нику
-- Issues и PR — всегда welcome
+- VK — ищи по нику (я там тоже чиллю)
+- Issues и PR — всегда welcome, заходи погреться
 
 ---
 
 <div align="center">
 
-*I can make anything — you just need the right teeth for it.* 🐀
+*Stay frosty.* 🧊❄️🥶
 
-![Profile views](https://komarev.com/ghpvc/?username=olegvnore&color=00ff88&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=olegvnore&color=00d4ff&style=flat)
 
 </div>
